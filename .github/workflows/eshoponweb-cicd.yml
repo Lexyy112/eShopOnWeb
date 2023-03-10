@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-uk
   LOCATION: uksouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: d0f4eb3b-7a3b-437e-a2f0-e9ac34c1d498
+  SUBSCRIPTION-ID: 29c3a2c1-0b7e-48b9-8f8f-0424481caaea
   WEBAPP-NAME: az400-webapp-sunny-uks
 
 
